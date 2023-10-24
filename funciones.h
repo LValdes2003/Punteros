@@ -8,6 +8,7 @@
 int usarPunteros(int numero, char letra);
 void arrayPunteros(int *array, int cantidad);
 void memoriaDinamica();
+void memoriaDinamica2();
 void aritmeticaPunteros();
 void punterosAPunteros();
 void punterosAFunciones();
